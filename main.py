@@ -1,3 +1,3 @@
 python
 def greet(name):
- retrn f"Hello, {name}!"
+ return f"Hello, {name}!"
